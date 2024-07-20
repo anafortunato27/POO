@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"br.ufg.poo.g8","l":"Database"},{"p":"br.ufg.poo.g8","l":"Paciente"},{"p":"br.ufg.poo.g8","l":"PacienteRepository"}];updateSearchResults();

@@ -1,3 +1,5 @@
+package br.ufg.poo.g8;
+
 import java.util.Date;
 import java.text.SimpleDateFormat;
 import com.j256.ormlite.table.DatabaseTable;
