@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TRAPView
+comment0.text=\r\n\ Interface\ Gr\u00E1fica\ (GUI)\ da\ Calculadora\ da\ \u00E1rea\ do\ trap\u00E9zio\r\n\ \r\n\ @author\ anafortunato27\r\n\ @version\ 06/05/2024\r\n
+comment1.params=
+comment1.target=TRAPView()
+comment2.params=controller
+comment2.target=void\ setController(TRAPController)
+comment3.params=primaryStage
+comment3.target=void\ start(javafx.stage.Stage)
+numComments=4

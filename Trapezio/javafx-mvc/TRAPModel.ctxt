@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TRAPModel
+comment0.text=\r\n\ Modela\ o\ c\u00E1lculo\ da\ \u00C1rea\ do\ Trap\u00E9zio\r\n\ \r\n\ @author\ anafortunato27\r\n\ @version\ 06/05/2024\r\n
+comment1.params=
+comment1.target=TRAPModel()
+comment2.params=area\ baseMaior\ baseMenor\ altura
+comment2.target=TRAPModel(double,\ double,\ double,\ double)
+comment2.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ AreaTrapezio\r\n
+comment3.params=
+comment3.target=double\ calcular()
+comment3.text=\r\n\ Calcula\ a\ \u00C1rea\ do\ Trap\u00E9zio\r\n\ \r\n\ @return\ \ \ \ \ o\ valor\ da\ \u00E1rea\ do\ trap\u00E9zio,\ dada\ por\:\ ((\ baseMaior\ +\ baseMenor\ )\ *\ altura)\ /\ 2\r\n
+comment4.params=
+comment4.target=java.lang.String\ interpretar()
+comment4.text=\r\n\ Interpreta\ o\ c\u00E1lculo\ da\ \u00E1rea\ do\ trap\u00E9zio\r\n\ \r\n\ @return\ \ \ \ \ Interpreta\ o\ c\u00E1lculo\ da\ \u00E1rea\ do\ trap\u00E9zio\r\n\ @see\ <a\ href\="https\://pt.wikipedia.org/wiki/Trap%C3%A9zio_(geometria)">Trap\u00E9zio\ Wikipedia</a>\r\n
+numComments=5
