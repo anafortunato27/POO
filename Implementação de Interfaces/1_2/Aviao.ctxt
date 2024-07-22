@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Aviao
+comment1.params=tipoMotor\ comercial0
+comment1.target=Aviao(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=boolean\ isComercial()
+comment3.params=tempo
+comment3.target=void\ voar(double)
+numComments=4

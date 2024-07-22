@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Transporte
+comment1.params=
+comment1.target=int\ capacidade()
+comment2.params=
+comment2.target=int\ velocidade()
+comment3.params=
+comment3.target=int\ getCapacidade()
+comment4.params=
+comment4.target=int\ getVelocidade()
+numComments=5

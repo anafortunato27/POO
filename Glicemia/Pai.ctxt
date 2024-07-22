@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Pai
+comment0.text=\n\ \n\ @Ana\ Fortunato\ \n\ @11/06/2024\n
+comment1.params=nome
+comment1.target=Pai(java.lang.String)
+comment2.params=glicemia
+comment2.target=void\ checarGlicemia(double)
+numComments=3

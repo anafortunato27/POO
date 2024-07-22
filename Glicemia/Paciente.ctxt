@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Paciente
+comment0.text=\n\ \n\ @Ana\ Fortunato\ \n\ @11/06/2024\n
+comment1.params=nome
+comment1.target=Paciente(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=glicemia
+comment3.target=void\ checarGlicemia(double)
+numComments=4

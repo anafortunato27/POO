@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Conta
+comment0.text=\r\n\ Quest\u00E3o\ 1\ da\ Atividade\ 2\r\n\r\n\ @Ana\ Fortunato\r\n\ @11/06/2024\r\n
+comment1.params=numero
+comment1.target=Conta(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNumero()
+comment3.params=
+comment3.target=double\ getSaldo()
+numComments=4
