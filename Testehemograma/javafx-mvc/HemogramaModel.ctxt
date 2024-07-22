@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=HemogramaModel
+comment0.text=\r\n\ Calcula\ as\ Plaquetas\ e\ a\ Hemoglobina\ Corpuscular\ M\u00E9dia\ (HCM)\r\n\ \r\n\ @author\ anafortunato27\r\n\ @version\ 04/06/2024\r\n
+comment1.params=hemoglobina\ plaquetas
+comment1.target=HemogramaModel(double,\ double)
+comment2.params=
+comment2.target=double\ calcularHCM()
+comment3.params=
+comment3.target=double\ getHemoglobina()
+comment4.params=
+comment4.target=double\ getEritr\u00F3citos()
+comment5.params=
+comment5.target=double\ getPlaquetas()
+numComments=6

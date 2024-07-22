@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HemogramaController
+comment0.text=\r\n\ Calcula\ as\ Plaquetas\ e\ a\ Hemoglobina\ Corpuscular\ M\u00E9dia\ (HCM)\r\n\ \r\n\ @author\ anafortunato27\r\n\ @version\ 04/06/2024\r\n
+comment1.params=model\ view
+comment1.target=HemogramaController(HemogramaModel,\ HemogramaView)
+comment2.params=
+comment2.target=void\ calcularIndices()
+numComments=3
