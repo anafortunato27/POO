@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hemograma
+comment1.params=id\ nome
+comment1.target=Hemograma(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=javafx.beans.property.IntegerProperty\ idProperty()
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=
+comment5.target=javafx.beans.property.StringProperty\ nomeProperty()
+numComments=6
