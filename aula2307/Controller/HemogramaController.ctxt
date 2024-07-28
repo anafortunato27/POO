@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=HemogramaController
-comment1.params=
-comment1.target=void\ initialize()
-comment2.params=
-comment2.target=void\ listarRegistros()
-comment3.params=
-comment3.target=void\ adicionarRegistro()
-numComments=4
