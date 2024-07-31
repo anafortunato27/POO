@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.geometry.Insets?>
@@ -23,3 +24,30 @@
         </columns>
     </TableView>
 </VBox>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="AppController">
+
+    <padding>
+        <Insets top="20" bottom="20" left="20" right="20" />
+    </padding>
+
+    <TableView fx:id="tabela">
+        <columns>
+            <TableColumn fx:id="selectCol" text="Selecionar"></TableColumn>
+            <TableColumn fx:id="pacienteCol" text="Paciente"></TableColumn>
+            <TableColumn fx:id="idadeCol" text="Idade"></TableColumn>
+            <TableColumn fx:id="hemoglobinaCol" text="Hemoglobina"></TableColumn>
+            <TableColumn fx:id="hematocritoCol" text="Hematócrito"></TableColumn>
+            <TableColumn fx:id="leucocitosCol" text="Leucócitos"></TableColumn>
+            <TableColumn fx:id="plaquetasCol" text="Plaquetas"></TableColumn>
+        </columns>
+    </TableView>
+</VBox>
+>>>>>>> 0f735b1aef3df19b5d73dd3d35d07745a58117b5

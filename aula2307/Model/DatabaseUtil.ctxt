@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #BlueJ class context
 comment0.target=DatabaseUtil
 comment1.params=
@@ -7,3 +8,14 @@ comment2.target=java.util.List\ getHemogramas()
 comment3.params=hemograma
 comment3.target=void\ insertHemograma(Hemograma)
 numComments=4
+=======
+#BlueJ class context
+comment0.target=DatabaseUtil
+comment1.params=
+comment1.target=java.sql.Connection\ getConnection()
+comment2.params=
+comment2.target=java.util.List\ getHemogramas()
+comment3.params=hemograma
+comment3.target=void\ insertHemograma(Hemograma)
+numComments=4
+>>>>>>> 0f735b1aef3df19b5d73dd3d35d07745a58117b5

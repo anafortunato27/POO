@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #BlueJ class context
 comment0.target=AppController
 comment1.params=location\ resources
@@ -5,3 +6,12 @@ comment1.target=void\ initialize(java.net.URL,\ java.util.ResourceBundle)
 comment2.params=
 comment2.target=javafx.collections.ObservableList\ listaDeHemogramas()
 numComments=3
+=======
+#BlueJ class context
+comment0.target=AppController
+comment1.params=location\ resources
+comment1.target=void\ initialize(java.net.URL,\ java.util.ResourceBundle)
+comment2.params=
+comment2.target=javafx.collections.ObservableList\ listaDeHemogramas()
+numComments=3
+>>>>>>> 0f735b1aef3df19b5d73dd3d35d07745a58117b5
