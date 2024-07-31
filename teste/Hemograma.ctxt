@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hemograma
+comment1.params=
+comment1.target=Hemograma()
+comment2.params=parametro\ valor
+comment2.target=void\ adicionarValor(java.lang.String,\ double)
+comment3.params=parametro
+comment3.target=double\ obterValor(java.lang.String)
+numComments=4

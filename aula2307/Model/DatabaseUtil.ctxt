@@ -2,4 +2,8 @@
 comment0.target=DatabaseUtil
 comment1.params=
 comment1.target=java.sql.Connection\ getConnection()
-numComments=2
+comment2.params=
+comment2.target=java.util.List\ getHemogramas()
+comment3.params=hemograma
+comment3.target=void\ insertHemograma(Hemograma)
+numComments=4

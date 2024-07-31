@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ValoresReferencia
+comment1.params=
+comment1.target=ValoresReferencia()
+comment2.params=categoria
+comment2.target=java.util.Map\ obterValores(java.lang.String)
+numComments=3
